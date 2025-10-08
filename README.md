@@ -32,6 +32,10 @@ Live demo here [add link to demo]
   - Link to Netlify
 - Search engine
 - API integration
+  - Stop the server with ctrl+C
+	- Run ```yarn add axios```
+	- Import the axios component
+	- Start the server again with ```npm run dev```
 - Meaning functionality
 - Synonym functionality
 - Phonetics functionality
