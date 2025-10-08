@@ -4,3 +4,18 @@
   color: #421654;
   margin: 30px;
 }
+
+.App footer {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  color: #888;
+  font-size: 14px;
+  text-align: center;
+  margin-top: 40px;
+}
+.App a {
+  color: #421654;
+  text-decoration: none;
+}
+.App a:hover {
+  text-decoration: underline;
+}
