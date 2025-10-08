@@ -1,16 +1,50 @@
-# React + Vite
+# React Dictionary Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+A dictionary application built with React.js using multiple APIs. Based on the Shecodes React Add-on tutorials.
 
-Currently, two official plugins are available:
+## General Information
+- I undertook this project to familarise myself with the use of.....
+- In particular, I wanted to ...
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## Technologies Used
+- React -v
+- Axios -v
+- 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
+-
+-
 
-## Expanding the ESLint configuration
+## Example
+Add a image of the app here
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Demo
+Live demo here [add link to demo]
+
+## Plan
+- Create wireframe in Figma
+- Project setup
+  - Create new repo
+  - Open terminal and run the command ``` npm create vite@latest ```
+  - Add Bootstrap
+  - Link to Netlify
+- Search engine
+- API integration
+- Meaning functionality
+- Synonym functionality
+- Phonetics functionality
+- Styling
+- Add images
+- Final touches
+
+
+
+
+
+
+
+
+
+## Lessons Learned
