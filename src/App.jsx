@@ -23,7 +23,7 @@ export default function App() {
         href="https://stephieoj-react-dictionary.netlify.app/" target="_blank" rel='noopener noreferrer'> <strong>Netlify</strong></a>
         <br />
         <br />
-        <img className="stephie" src="src/assets/stephieoj.png" alt="stephieoj" height="80px" width="80px" />
+        <img className="stephie" src="/src/assets/stephieoj.png" alt="stephieoj" height="80px" width="80px" />
     </footer>
 
     </div>
