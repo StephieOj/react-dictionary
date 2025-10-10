@@ -1,7 +1,6 @@
 
 import './App.css'
 import Dictionary from './Dictionary.jsx'
-import stephieimg from './assets/stephieoj.png'
 
 export default function App() {
 
@@ -24,7 +23,7 @@ export default function App() {
         href="https://stephieoj-react-dictionary.netlify.app/" target="_blank" rel='noopener noreferrer'> <strong>Netlify</strong></a>
         <br />
         <br />
-  <img className="stephie" src={stephieimg} alt="stephieoj" height="80px" width="80px" />
+        <img className="stephie" src="src/assets/stephieoj.png" alt="stephieoj" height="80px" width="80px" />
     </footer>
 
     </div>
